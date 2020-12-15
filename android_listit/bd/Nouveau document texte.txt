@@ -1,0 +1,2 @@
+insert into date('now')
+INSERT INTO lists(date, name) VALUES(datetime('now'),"uneListe");

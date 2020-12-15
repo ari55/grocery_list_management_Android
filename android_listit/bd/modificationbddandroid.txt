@@ -1,0 +1,3 @@
+adapter .notify data setchage
+adapter.clear.
+notify.setchange.
